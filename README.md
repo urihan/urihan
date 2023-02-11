@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @urihan
-- 👀 I’m interested in quantum computing 
-- 🌱 I’m currently learning about quantum computing too! 
-- 📫 How to reach me : yurihan330@gmail.com
+- 👋 Hi, my name is Yuri Han (@urihan)
+- 👀 I’m interested in both physics, computer science, and mostly Quantum Computing
+- 🌱 I’m currently learning about Quantum Computing too! 
+- 📫 How to reach me : yurihan330@gmail.com 
 
 <!---
 urihan/urihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
